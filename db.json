@@ -1,0 +1,44 @@
+{
+    "dados": [
+        { 
+            "id": 1,
+            "nome": "Carlos",
+            "medidas": "1,85m 81kg"
+        },
+        {
+            "id": 2,
+            "nome": "Kelly",
+            "medidas": "1,67m 55kg"
+        },
+        {
+            "id": 3,
+            "nome": "Rodrigo",
+            "medidas": "1,70m 70kg"
+        },
+        {
+            "id": 4,
+            "nome": "Lorrany",
+            "medidas": "1,65m 51kg"
+        },
+        {
+            "id": 5,
+            "nome": "Laura",
+            "medidas": "1,62m 49kg"
+        },
+        {
+            "id": 6,
+            "nome": "Luis",
+            "medidas": "1,81m 60kg"
+        },
+        {
+            "id": 7,
+            "nome": "Joana",
+            "medidas": "1,65m 50kg"
+        },
+        {
+            "id": 8,
+            "nome": "Vitor",
+            "medidas": "1,87m 78kg"
+        }
+    ]
+}
